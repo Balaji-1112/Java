@@ -10,6 +10,10 @@ public class Sample {
 	private void Balaji2() {
 		System.out.println("Balaji2");
 
+	private void balaji() {
+		System.out.println("balaji");
+
+
 	}
 	
 	public static void main(String[] args) {
